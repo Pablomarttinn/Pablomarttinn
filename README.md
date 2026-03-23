@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pablomarttinn/Pablomarttin/refs/heads/main/imagen%20Pablo%20formal.jpg?token=GHSAT0AAAAAADXLUUWVGDO4EUUP7LWCBTTE2OBSQMA" width="150"/>
-</p>
+
 Hey! 👋
 
 I'm **Pablo Martín** (@Pablomarttinn), currently studying my penultimate year of Industrial Organization Engineering.
