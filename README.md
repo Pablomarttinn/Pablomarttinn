@@ -5,8 +5,8 @@ Interested in Data Science, Machine Learning and real-world applications of AI.
 
 🎓 **Education**
 ---
-- **Universidad de Oviedo – Escuela Politécnica de Ingeniería de Gijón**: Beng in Industrial Organization Engineering
-- **University of Kaohsiung (Taiwan, Exchange)**: Beng Insutrial Engineering and Computer Science
+- **Universidad de Oviedo(Escuela Politécnica de Ingeniería de Gijón)**- Beng Industrial Organization Engineering
+- **University of Kaohsiung (Taiwan, Exchange)**- Beng Industrial Engineering and Computer Science
 - **Zrive**: Data Science Program
 
 🚀 Projects
