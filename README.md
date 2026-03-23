@@ -27,7 +27,7 @@ Interested in Data Science, Machine Learning and real-world applications of AI.
 Skills
 ---
 ### Actively using
-![My Skills](https://skillicons.dev/icons?i=python,sklearn,jupyter,sql,git,github,vscode,linux)
+![My Skills](https://skillicons.dev/icons?i=python,sklearn,postgres,git,github,vscode,linux) ![Jupyter](https://img.shields.io/badge/-Jupyter-orange?logo=jupyter)
 
 ### Foundational knowledge
 ![My Skills](https://skillicons.dev/icons?i=matlab,python)
