@@ -12,8 +12,8 @@ Interested in Data Science, Machine Learning and real-world applications of AI.
 
 🚀 Projects
 ---
-- [Supermarket Optimization Notification Model](https://github.com/Pablomarttinn/supermarket-push-notification-model.git)<br>
-  Developed a machine learning model to predict whether a user should receive a push notification, aiming to maximize conversion rates while minimizing user          fatigue.<br>
+- [Supermarket Push Notification Optimization Model](https://github.com/Pablomarttinn/supermarket-push-notification-model.git)<br>
+  Designed a machine learning system to optimize push notification targeting, maximizing conversions while minimizing user fatigue.<br>
 
   **Problem**: Framed as a binary classification task to identify high-probability users for targeted notifications, balancing engagement and over-notification       risk.<br>
   **Modeling & Evaluation:** Compared linear and non-linear models, selecting Random Forest based on superior performance on the Precision-Recall trade-off.          Performed hyperparameter tuning using GridSearch with a temporal validation split, ensuring evaluation respects the chronological nature of the data and avoids     data leakage. Benchmarked against a baseline using global popularity.<br>
