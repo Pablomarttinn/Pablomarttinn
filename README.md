@@ -20,13 +20,6 @@ Interested in Data Science, Machine Learning and real-world applications of AI.
   **ML Implementation:** Implemented a modular ML pipeline with separate training and inference stages, including feature alignment, model persistence, and an API-   ready prediction handler. Applied a temporal data split to preserve the chronological order of events, preventing data leakage and ensuring realistic evaluation    aligned with production conditions.
 
 
-📫 **Contact**
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablomartinfdez)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:pablomrtfdez@gmail.com)
 
-Skills
----
-![My Skills](https://skillicons.dev/icons?i=python,sklearn,postgres,git,github,vscode,linux,matlab) 
 
 
